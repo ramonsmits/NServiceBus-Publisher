@@ -244,7 +244,6 @@ E:\OfficeWork\NServiceBusMSMQ_N\Implementation-GitHub\NServiceBus-Publisher\Publ
 E:\OfficeWork\NServiceBusMSMQ_N\Implementation-GitHub\NServiceBus-Publisher\Publisher\bin\Microsoft.AI.ServerTelemetryChannel.xml
 E:\OfficeWork\NServiceBusMSMQ_N\Implementation-GitHub\NServiceBus-Publisher\Publisher\bin\Microsoft.AI.WindowsServer.xml
 E:\OfficeWork\NServiceBusMSMQ_N\Implementation-GitHub\NServiceBus-Publisher\Publisher\bin\Microsoft.AI.Web.xml
-E:\OfficeWork\NServiceBusMSMQ_N\Implementation-GitHub\NServiceBus-Publisher\Publisher\obj\Debug\Publisher.csprojResolveAssemblyReference.cache
 E:\OfficeWork\NServiceBusMSMQ_N\Implementation-GitHub\NServiceBus-Publisher\Publisher\obj\Debug\Publisher.csproj.CoreCompileInputs.cache
 E:\OfficeWork\NServiceBusMSMQ_N\Implementation-GitHub\NServiceBus-Publisher\Publisher\obj\Debug\Publisher.dll
 E:\OfficeWork\NServiceBusMSMQ_N\Implementation-GitHub\NServiceBus-Publisher\Publisher\obj\Debug\Publisher.pdb
